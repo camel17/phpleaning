@@ -8,7 +8,7 @@
 <body>
 
 <?php
-	/* connexion a la base de données*/
+	/* connexion a la base de données mySQL*/
 	define("DB_HOST", "localhost");
 	define("DB_NAME", "test");
 	define("DB_USERNAME", "root");
